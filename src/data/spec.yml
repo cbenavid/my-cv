@@ -1,0 +1,29 @@
+---
+personal:
+  address: 38100 Grenoble
+  telephone: 07 67 15 34 11
+
+description: null
+
+education:
+  - title: Diplôme d'ingénieur
+    institution: ENSIMAG
+    dates: null
+
+experiences:
+  - company: Capgemini
+    dates: null
+    description: null
+  - company: SAP SE
+    dates: null
+    description: null
+
+languages:
+  - name: spanish
+    level: native
+  - name: french
+    level: courant
+  - name: english
+    level: courant
+  - name: portuguese
+    level: professional
